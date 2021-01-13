@@ -1,6 +1,10 @@
 ## Sukhneet Kaur
 
-You can use the [editor on GitHub](https://github.com/sukhneetkaur/personal_webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Senior at Mount Holyoke College pursuing a Neuroscience major and a Psychology minor with a concentration in Data Science. I am passionate about using various computational and data anaytics techniques to play my part in understanding and untangling the complexities of human brain and behavior.  I have been able to work towards my goal as part of Visual Cognition and Attention Lab at University of Massachusetts, Amherst, where I utilize human eye-tracking data to determine the different search strategies that people use while performing a visual search task. This project seeks to examine the extent to which people are willing to employ their cognitive resources which would further help the research community find ways to optimize visual search.
+
+I have also had the opportunity to tie my neuroscience/ psychology research experience with the industrial domain by completing a ANA Educational Foundation certified program (Marketing and Advertisemnt Education Program) as MADE 2020 summer intern. At the Association for National Advertisers, I had the opportunity to learn directly from executives in the industry who enabled me to see human behavior research in a different light. 
+
+I am currently looking for full-time opportunities in either Industry (Marketing, Data Analytics, Consumer Insights) or Academia (Research Assistant Positions - Neuroscience / Cognitive Psychology Research).
 
 ## Projects
 
