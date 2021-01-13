@@ -32,6 +32,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sukhneetkaur/personal_webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+## Projects
+
+### Visual Cognition and Attention Lab, University of Massachusetts
+
+- Worked on re-analyzing human eye-tracking data from prior experiments conducted in the lab to explore how people make decisions and the different search strategies they use during visual search tasks
+- Performed data processing, analysis, and visualization of eye-tracking data to explore experimental parameters for optimal target-search strategies in humans
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
