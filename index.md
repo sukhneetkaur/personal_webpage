@@ -1,4 +1,4 @@
-## Intro
+## Sukhneet Kaur 
 
 I am a Senior at Mount Holyoke College pursuing a Neuroscience major and a Psychology minor with a concentration in Data Science. I am passionate about using various computational and data anaytics techniques to play my part in understanding and untangling the complexities of human brain and behavior.  I have been able to work towards my goal as part of Visual Cognition and Attention Lab at University of Massachusetts, Amherst, where I utilize human eye-tracking data to determine the different search strategies that people use while performing a visual search task. This project seeks to examine the extent to which people are willing to employ their cognitive resources which would further help the research community find ways to optimize visual search.
 
@@ -9,7 +9,7 @@ I am currently looking for full-time opportunities in either Industry (Marketing
 ## Projects
 
 ### Visual Cognition and Attention Lab, University of Massachusetts
-# Independent Research Student (May 2019 - Present)
+###### Independent Research Student (May 2019 - Present)
 
 - Worked on re-analyzing human eye-tracking data from prior experiments conducted in the lab to explore how people make decisions and the different search strategies they use during visual search tasks
 - Performed data processing, analysis, and visualization of eye-tracking data to explore experimental parameters for optimal target-search strategies in humans (Dataset: ~500 subjects, 400k datapoints, 30 features) (Tools: Excel, RStudio, ggplot)
