@@ -61,7 +61,7 @@ I am currently looking for full-time opportunities in either Industry (Marketing
         - Microtubules in the cells treated with Nocodazole were more dispersed and present away from the nucleus
         - Neither Taxol nor Nocodazole influenced the mitochondrial distribution
       
-### Statistics Research, Mount Holyoke College
+### Statistics Research, Mount Holyoke College: [github link](https://github.com/sukhneetkaur/factors-influencing-no2-conc)
 ###### Independent Project (Spring 2020)
 
 - Conducted an independent analytical study under Prof. Marie Ozanne to explore the different factors impacting the nitrogen dioxide concentration in air, using multiple regression model
